@@ -20,16 +20,14 @@ public class Program
             switch (args[0])
             {
                 case "encode":
-                    operation = "encode";
-                    break;
                 case "decode":
-                    operation = "decode";
                     break;
                 default:
                     Console.WriteLine($"{args[0]} is not a valid operation.");
                     return -2;
             }
 
+            operation = args[0];
             input = args[1];
             output = args[2];
         }
