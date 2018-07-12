@@ -1,0 +1,14 @@
+C:\Users\Heitor\Dropbox\Computing\C#\Bitmap\Bitmap\bin\Debug\Bitmap.exe.config
+C:\Users\Heitor\Dropbox\Computing\C#\Bitmap\Bitmap\bin\Debug\Bitmap.exe
+C:\Users\Heitor\Dropbox\Computing\C#\Bitmap\Bitmap\bin\Debug\Bitmap.pdb
+C:\Users\Heitor\Dropbox\Computing\C#\Bitmap\Bitmap\obj\Debug\ImageMessage.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\Dropbox\Computing\C#\Bitmap\Bitmap\obj\Debug\Bitmap.exe
+C:\Users\Heitor\Dropbox\Computing\C#\Bitmap\Bitmap\obj\Debug\Bitmap.pdb
+C:\Users\Heitor\Dropbox\Computing\C#\Bitmap\Bitmap\obj\Debug\ImageMessage.csprojAssemblyReference.cache
+C:\Users\Heitor\Dropbox\Computing\C#\ImageMessage\ImageMessage\bin\Debug\Bitmap.exe.config
+C:\Users\Heitor\Dropbox\Computing\C#\ImageMessage\ImageMessage\bin\Debug\Bitmap.exe
+C:\Users\Heitor\Dropbox\Computing\C#\ImageMessage\ImageMessage\bin\Debug\Bitmap.pdb
+C:\Users\Heitor\Dropbox\Computing\C#\ImageMessage\ImageMessage\obj\Debug\ImageMessage.csprojAssemblyReference.cache
+C:\Users\Heitor\Dropbox\Computing\C#\ImageMessage\ImageMessage\obj\Debug\ImageMessage.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\Dropbox\Computing\C#\ImageMessage\ImageMessage\obj\Debug\Bitmap.exe
+C:\Users\Heitor\Dropbox\Computing\C#\ImageMessage\ImageMessage\obj\Debug\Bitmap.pdb
