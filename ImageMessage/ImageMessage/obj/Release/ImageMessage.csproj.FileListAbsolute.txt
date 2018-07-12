@@ -1,6 +1,0 @@
-C:\Users\Heitor\Dropbox\Computing\C#\ImageMessage\ImageMessage\obj\Release\ImageMessage.csproj.CoreCompileInputs.cache
-C:\Users\Heitor\Dropbox\Computing\C#\ImageMessage\ImageMessage\bin\Release\Bitmap.exe.config
-C:\Users\Heitor\Dropbox\Computing\C#\ImageMessage\ImageMessage\bin\Release\Bitmap.exe
-C:\Users\Heitor\Dropbox\Computing\C#\ImageMessage\ImageMessage\bin\Release\Bitmap.pdb
-C:\Users\Heitor\Dropbox\Computing\C#\ImageMessage\ImageMessage\obj\Release\Bitmap.exe
-C:\Users\Heitor\Dropbox\Computing\C#\ImageMessage\ImageMessage\obj\Release\Bitmap.pdb
